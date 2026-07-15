@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0260-single-number-iii) |
 | [0455-assign-cookies](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0860-lemonade-change) |
 | [1901-find-a-peak-element-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/2643-row-with-maximum-ones) |
 ## Binary Search
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0860-lemonade-change) |
 ## Sorting
 |  |
 | ------- |
