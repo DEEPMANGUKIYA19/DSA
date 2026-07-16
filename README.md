@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0055-jump-game](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0137-single-number-ii) |
@@ -63,10 +64,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0860-lemonade-change) |
 ## Sorting
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0455-assign-cookies) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
