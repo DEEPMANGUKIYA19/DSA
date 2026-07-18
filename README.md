@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0045-jump-game-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0137-single-number-ii) |
