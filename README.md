@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0137-single-number-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0260-single-number-iii) |
+| [0435-non-overlapping-intervals](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0860-lemonade-change) |
 | [1901-find-a-peak-element-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/1901-find-a-peak-element-ii) |
@@ -67,15 +68,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0860-lemonade-change) |
 ## Sorting
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
