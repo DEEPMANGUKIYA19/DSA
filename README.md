@@ -88,9 +88,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0678-valid-parenthesis-string](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0678-valid-parenthesis-string) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
