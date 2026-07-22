@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0860-lemonade-change) |
+| [0904-fruit-into-baskets](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1901-find-a-peak-element-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/2643-row-with-maximum-ones) |
@@ -100,10 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0904-fruit-into-baskets) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
