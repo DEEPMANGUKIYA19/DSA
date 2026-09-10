@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1901-find-a-peak-element-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/1901-find-a-peak-element-ii) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2643-row-with-maximum-ones](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/2643-row-with-maximum-ones) |
 ## Binary Search
 |  |
@@ -163,4 +164,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/1046-last-stone-weight) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/2558-take-gifts-from-the-richest-pile) |
+## Simulation
+|  |
+| ------- |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/2558-take-gifts-from-the-richest-pile) |
 <!---LeetCode Topics End-->
