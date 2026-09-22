@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2643-row-with-maximum-ones](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/2643-row-with-maximum-ones) |
+| [3525-find-x-value-of-array-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/3525-find-x-value-of-array-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0231-power-of-two) |
 | [1248-count-number-of-nice-subarrays](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1486-xor-operation-in-an-array](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/1486-xor-operation-in-an-array) |
+| [3525-find-x-value-of-array-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/3525-find-x-value-of-array-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -169,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/2558-take-gifts-from-the-richest-pile) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
