@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0496-next-greater-element-i) |
+| [0692-top-k-frequent-words](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0692-top-k-frequent-words) |
 | [0860-lemonade-change](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0455-assign-cookies) |
+| [0692-top-k-frequent-words](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0692-top-k-frequent-words) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0692-top-k-frequent-words](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0692-top-k-frequent-words) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Stack
 |  |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0496-next-greater-element-i) |
+| [0692-top-k-frequent-words](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0692-top-k-frequent-words) |
 | [0904-fruit-into-baskets](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -148,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0692-top-k-frequent-words) |
 | [0992-subarrays-with-k-different-integers](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 ## Design
 |  |
@@ -167,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0692-top-k-frequent-words) |
 | [1046-last-stone-weight](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/1046-last-stone-weight) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Simulation
@@ -177,4 +183,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/3525-find-x-value-of-array-ii) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0692-top-k-frequent-words) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
