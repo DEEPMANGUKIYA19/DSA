@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0137-single-number-ii) |
+| [0140-word-break-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0140-word-break-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0260-single-number-iii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0078-subsets) |
+| [0140-word-break-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0140-word-break-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0055-jump-game) |
+| [0140-word-break-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0140-word-break-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0435-non-overlapping-intervals](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0678-valid-parenthesis-string) |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0076-minimum-window-substring) |
+| [0140-word-break-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0140-word-break-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0692-top-k-frequent-words) |
@@ -125,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0076-minimum-window-substring) |
+| [0140-word-break-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0140-word-break-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0692-top-k-frequent-words) |
@@ -188,9 +193,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0140-word-break-ii) |
 | [0692-top-k-frequent-words](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0692-top-k-frequent-words) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
