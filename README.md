@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0078-subsets) |
 | [0140-word-break-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0140-word-break-ii) |
 ## Two Pointers
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0055-jump-game) |
 | [0140-word-break-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0140-word-break-ii) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0076-minimum-window-substring) |
 | [0140-word-break-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0140-word-break-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -203,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0140-word-break-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
