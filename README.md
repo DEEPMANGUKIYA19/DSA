@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0137-single-number-ii) |
 | [0140-word-break-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0140-word-break-ii) |
+| [0174-dungeon-game](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0260-single-number-iii) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0174-dungeon-game](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0174-dungeon-game) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/2643-row-with-maximum-ones) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0055-jump-game) |
 | [0140-word-break-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0140-word-break-ii) |
+| [0174-dungeon-game](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0435-non-overlapping-intervals](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0678-valid-parenthesis-string) |
