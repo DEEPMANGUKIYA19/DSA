@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0078-subsets) |
 | [0093-restore-ip-addresses](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0093-restore-ip-addresses) |
 | [0140-word-break-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0140-word-break-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0301-remove-invalid-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0093-restore-ip-addresses) |
 | [0140-word-break-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0140-word-break-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0692-top-k-frequent-words) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0207-course-schedule) |
+| [0301-remove-invalid-parentheses](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0301-remove-invalid-parentheses) |
 ## Graph Theory
 |  |
 | ------- |
