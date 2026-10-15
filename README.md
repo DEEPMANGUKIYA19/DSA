@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0231-power-of-two) |
 | [1248-count-number-of-nice-subarrays](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1486-xor-operation-in-an-array](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/1486-xor-operation-in-an-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0076-minimum-window-substring) |
 | [0140-word-break-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0140-word-break-ii) |
+| [0202-happy-number](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0242-valid-anagram) |
 | [0355-design-twitter](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -254,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0207-course-schedule) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
