@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0202-happy-number) |
+| [0295-find-median-from-data-stream](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0502-ipo) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0355-design-twitter) |
 ## Queue
 |  |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0355-design-twitter) |
 | [0502-ipo](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0692-top-k-frequent-words) |
@@ -261,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0202-happy-number) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
