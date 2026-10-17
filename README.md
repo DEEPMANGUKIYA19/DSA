@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0692-top-k-frequent-words) |
 | [0860-lemonade-change](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0904-fruit-into-baskets) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0860-lemonade-change) |
 ## Sorting
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0692-top-k-frequent-words) |
 ## Dynamic Programming
 |  |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0692-top-k-frequent-words) |
 | [0904-fruit-into-baskets](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -189,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0692-top-k-frequent-words) |
 | [0992-subarrays-with-k-different-integers](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 ## Design
@@ -217,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0355-design-twitter) |
 | [0502-ipo](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/1046-last-stone-weight) |
