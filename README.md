@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0191-number-of-1-bits](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0355-design-twitter) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0355-design-twitter](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0355-design-twitter) |
 ## Depth-First Search
 |  |
@@ -295,4 +298,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
