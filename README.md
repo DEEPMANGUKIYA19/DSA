@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0692-top-k-frequent-words) |
+| [0846-hand-of-straights](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0846-hand-of-straights](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0860-lemonade-change) |
 ## Sorting
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0692-top-k-frequent-words) |
+| [0846-hand-of-straights](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0846-hand-of-straights) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0692-top-k-frequent-words) |
+| [0846-hand-of-straights](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0992-subarrays-with-k-different-integers) |
