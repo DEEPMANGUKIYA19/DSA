@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0278-first-bad-version](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0278-first-bad-version) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [1004-max-consecutive-ones-iii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1901-find-a-peak-element-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/1901-find-a-peak-element-ii) |
@@ -332,4 +333,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
