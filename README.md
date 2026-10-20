@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0045-jump-game-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0045-jump-game-ii) |
+| [0051-n-queens](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0078-subsets) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0093-restore-ip-addresses) |
@@ -340,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0278-first-bad-version) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
