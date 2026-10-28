@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0231-power-of-two) |
 | [1248-count-number-of-nice-subarrays](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0070-climbing-stairs) |
 | [0140-word-break-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0140-word-break-ii) |
 | [0174-dungeon-game](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0070-climbing-stairs) |
 | [0140-word-break-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0140-word-break-ii) |
 ## Bracket Sequences
 |  |
