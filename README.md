@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0057-insert-interval) |
+| [0063-unique-paths-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0090-subsets-ii) |
 | [0134-gas-station](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0134-gas-station) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0063-unique-paths-ii) |
 | [0174-dungeon-game](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0174-dungeon-game) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/1901-find-a-peak-element-ii) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0070-climbing-stairs) |
 | [0140-word-break-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0140-word-break-ii) |
 | [0174-dungeon-game](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0174-dungeon-game) |
