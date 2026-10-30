@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0231-power-of-two) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0070-climbing-stairs) |
 | [0140-word-break-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0140-word-break-ii) |
 | [0174-dungeon-game](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0174-dungeon-game) |
@@ -352,4 +354,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0051-n-queens) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
