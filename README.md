@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/1046-last-stone-weight) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0063-unique-paths-ii) |
 | [0174-dungeon-game](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0174-dungeon-game) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0931-minimum-falling-path-sum](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1901-find-a-peak-element-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/2643-row-with-maximum-ones) |
 ## Bit Manipulation
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0931-minimum-falling-path-sum](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0931-minimum-falling-path-sum) |
 ## String
 |  |
 | ------- |
