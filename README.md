@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0692-top-k-frequent-words) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0846-hand-of-straights](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0904-fruit-into-baskets) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0846-hand-of-straights](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0860-lemonade-change) |
 ## Sorting
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0931-minimum-falling-path-sum](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/DEEPMANGUKIYA19/DSA/tree/master/1463-cherry-pickup-ii) |
